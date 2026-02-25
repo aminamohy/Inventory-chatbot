@@ -20,7 +20,7 @@ It allows end users to ask inventory/business questions in natural language, gen
 
 ## **System Architecture**
 
-![System Diagram] Inventory_chatbot _system _diagram.png
+![System Diagram](Inventory_chatbot _system _diagram.png)
 
 The diagram shows the data flow from user → FastAPI → Chat Service → LLM API → Database → back to user.
 
